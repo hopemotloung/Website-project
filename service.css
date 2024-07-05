@@ -1,0 +1,27 @@
+
+
+.bt{
+    text-align: left;
+    padding-left: 15px;
+    border: none;
+    border-bottom: 2px solid black;
+    width: 90%;
+    height: 10px;
+    padding-bottom: 35px;
+    cursor: pointer;
+    font-size: 2rem;
+}
+.iv{
+    position: absolute;
+    right: 160px;
+}
+.ma{
+    position: relative;
+    display: none;
+    transition: 1s;
+}
+
+.hd{
+    text-align: center;
+    padding: 10px;
+}
